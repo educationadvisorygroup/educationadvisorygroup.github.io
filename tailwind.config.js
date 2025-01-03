@@ -5,7 +5,13 @@ module.exports = {
     "./_layouts/**/*.{js,ts,jsx,tsx}", 
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['Roboto Slab', 'serif'], // Set Roboto Slab as the default sans-serif font
+      },
+    },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 }

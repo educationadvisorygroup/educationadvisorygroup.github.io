@@ -191,75 +191,49 @@
   }
 
   // Smooth Scroll Anchor
-  const mySmooth = function () {
-    var scroll = new SmoothScroll('a[href*="#"]', {
-      offset : 80,
-      speed: 1200,
-      speedAsDuration: true
-    });
-  }
+  // const mySmooth = function () {
+  //   var scroll = new SmoothScroll('a[href*="#"]', {
+  //     offset : 80,
+  //     speed: 1200,
+  //     speedAsDuration: true
+  //   });
+  // }
   
   // if scroll down
   const myScrollspy = function () {
-    var scrollpos = document.body.scrollTop || document.documentElement.scrollTop;
-    var nav_height = 80;
-    var main_nav = document.querySelector(".main-nav");
+    const navHeight = 80;
+    const mainNav = document.querySelector(".main-nav");
+    const sections = document.querySelectorAll(".section");
 
-    // navbar on scroll
-    var add_class_on_scroll = function add_class_on_scroll() {
-      return main_nav.classList.add("navbar-scrolled")
+    const updateNavbarOnScroll = () => {
+        const scrollPosition = document.documentElement.scrollTop || document.body.scrollTop;
+
+        // Toggle navbar background
+        if (scrollPosition >= navHeight) {
+            mainNav.classList.add("navbar-scrolled");
+        } else {
+            mainNav.classList.remove("navbar-scrolled");
+        }
+
+        // Highlight active link
+        sections.forEach(section => {
+            const sectionTop = section.offsetTop - navHeight;
+            const sectionHeight = section.offsetHeight;
+            const sectionId = section.getAttribute("id");
+
+            if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
+                document.querySelector(".navbar a.active")?.classList.remove("active");
+                document.querySelector(`.navbar a[href="#${sectionId}"]`)?.classList.add("active");
+            }
+        });
     };
-    var remove_class_on_scroll = function remove_class_on_scroll() {
-      return main_nav.classList.remove("navbar-scrolled")
-    };
 
-    var navCustom = function navCustom() {
-      scrollpos = document.body.scrollTop || document.documentElement.scrollTop;
+    // Update on page load
+    window.addEventListener('load', updateNavbarOnScroll);
 
-      if (scrollpos >= nav_height) {
-        add_class_on_scroll();
-      } else {
-        remove_class_on_scroll();
-      }
-    }
-    
-    var navCustomone = function navCustomone() {
-      var section = document.querySelectorAll(".section");
-      if ( section != null) {
-	      var sections = {};
-	      var i = 0;
-
-	      Array.prototype.forEach.call(section, function(e) {
-	        sections[e.id] = e.offsetTop;
-	      });
-
-	      window.onscroll = function() {
-	        var scrollPosition = document.documentElement.scrollTop || document.body.scrollTop;
-
-	        for (i in sections) {
-	          if (sections[i] <= scrollPosition + nav_height ) {
-	            document.querySelector('.navbar>li>.active').classList.remove('active');
-	            document.querySelector('a[href*=' + i + ']').classList.add('active');
-	          }
-	        }
-	      }
-	    }
-    }
-
-    // if nav start not in top and not scroll
-    window.addEventListener('load', function () {
-      document.documentElement.scrollTop = 0;
-      document.body.scrollTop = 0;
-      navCustom();
-      navCustomone();
-    });
-
-    // if nav scroll
-    window.addEventListener('scroll', function () {
-      navCustom();
-      navCustomone();
-    });
-  }
+    // Update on scroll
+    window.addEventListener('scroll', updateNavbarOnScroll);
+};
 
   // menu mobile
   const menu_Mobile = function menu_Mobile() {
@@ -304,7 +278,6 @@
   mySplidejs();
   myTyped();
   myWow();
-  mySmooth();
   myScrollspy();
   myCustom();
 
