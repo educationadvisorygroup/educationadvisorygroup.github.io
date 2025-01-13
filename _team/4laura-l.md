@@ -1,5 +1,5 @@
 ---
-name: Laura Luo
+name: Laura
 position: Intake Consultation Specialist
 imageURL: src/img/team/lauraprofile.jpg
 ---

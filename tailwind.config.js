@@ -14,4 +14,7 @@ module.exports = {
   plugins: [
     require('@tailwindcss/typography'),
   ],
+  darkMode: 'false',
 }
+
+//  npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch

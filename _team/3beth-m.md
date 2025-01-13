@@ -1,6 +1,6 @@
 ---
-name: Beth McKenzie
-position: EAG Counselor
+name: Beth
+position: EAG Counselor/9th Grade Planning Advisor
 imageURL: src/img/team/bethprofile.png
 ---
 
