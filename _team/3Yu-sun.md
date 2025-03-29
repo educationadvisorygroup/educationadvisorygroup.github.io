@@ -1,7 +1,7 @@
 ---
 name: Dr. Yu Sun
-position: President
-imageURL: src/img/team/katyprofile.jpg
+position: CS Expert Student Advisor
+imageURL: src/img/team/sunyu.jpg
 ---
 Professor in the Department of Computer Science at California State Polytechnic
 University, Pomona, dedicated to innovation and advancement in computer science
