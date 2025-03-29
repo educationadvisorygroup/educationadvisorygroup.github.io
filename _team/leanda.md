@@ -1,7 +1,7 @@
 ---
 name: Leanda
 position: EAG Counselor
-imageURL: src/img/team/karenprofile.jpg
+imageURL: src/img/team/leanda.png
 ---
 A Premier Independent College Counselor with Global Expertise
 
