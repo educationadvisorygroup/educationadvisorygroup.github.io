@@ -1,6 +1,6 @@
 ---
 name: Annalee
-position: Founder & President
+position: Founder & Chief Executive Officer
 imageURL: src/img/team/annaprofile.jpg
 ---
 

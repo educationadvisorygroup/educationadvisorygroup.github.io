@@ -1,6 +1,6 @@
 ---
 name: Katy-Jane
-position: EAG Counselor
+position: President
 imageURL: src/img/team/katyprofile.jpg
 ---
 
