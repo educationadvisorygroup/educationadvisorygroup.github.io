@@ -1,6 +1,6 @@
 ---
 name: Leanda
-position: EAG Counselor
+position: Undergraduate college counselor, UK and European University Expert
 imageURL: src/img/team/leanda.png
 ---
 A Premier Independent College Counselor with Global Expertise

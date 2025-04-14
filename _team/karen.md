@@ -1,6 +1,6 @@
 ---
 name: Karen
-position: EAG Counselor
+position: Undergraduate College Counselor
 imageURL: src/img/team/karenprofile.jpg
 ---
 

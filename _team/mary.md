@@ -1,6 +1,6 @@
 ---
 name: Mary
-position: EAG Counselor
+position: Undergraduate College Counselor
 imageURL: src/img/team/mary.jpg
 ---
 Mary brings over a decade of admissions experience at the University of Chicago, where she

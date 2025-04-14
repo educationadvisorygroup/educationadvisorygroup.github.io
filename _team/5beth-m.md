@@ -1,6 +1,6 @@
 ---
 name: Beth
-position: EAG Counselor/9th Grade Planning Advisor
+position: Undergraduate College Counselor/9th Grade Planning Advisor
 imageURL: src/img/team/bethprofile.png
 ---
 

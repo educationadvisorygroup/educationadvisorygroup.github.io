@@ -1,6 +1,6 @@
 ---
 name: Katy-Jane
-position: President
+position: President, Undergraduate College Counselor
 imageURL: src/img/team/katyprofile.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Josh
-position: EAG Counselor
+position: Undergraduate, Graduate counselor
 imageURL: src/img/team/joshprofile.png
 ---
 
