@@ -1,18 +1,15 @@
 ---
-name: Laura
-position: Intake Consultation Specialist
-imageURL: src/img/team/lauraprofile.jpg
+name: Wendy
+position: Intake Consultation Specialist, Certified Life Coach
+imageURL: src/img/team/wendy.jpeg
 ---
 
-Since 2021, as a mother of two, Laura has been carving out new opportunities in the education field
-and thoroughly enjoying the journey. As an Intake Consultation Specialist, she not only communicates
-the company’s vision clearly to every parent but also focuses on guiding prospective families through
-the initial stages of the consultation process.
+As an International Coach Federation (ICF) certified coach and Stanford University certified Life
+Design Coach, Wendy brings over 12 years of expertise in guiding students and families through
+values-based educational planning and life coaching. Her unique approach integrates coaching
+with design innovation methodologies, empowering students to own their growth while fostering
+strong family collaboration.
 
-She carefully assesses the needs of students and their families, actively communicates with advisors, provides
-tailored recommendations, and ensures the smooth
-progression of services.
+Wendy employs "Designing with Purpose," a tailored strategy rooted in Stanford University’s human-centered principles. This approach helps students and parents clarify core family values and enables students to identify their individual values and priorities.
 
-Laura is dedicated to fostering a trusting and collaborative environment. She is passionate about
-understanding each student’s individual goals and supporting advisors in helping every student achieve
-success.
+Wendy facilitates "Curiosity Conversations" that align parent-teen expectations with empathy, fostering collaborative relationships. She helps align student and parent priorities while supporting teens in recognizing and leveraging their strengths.
