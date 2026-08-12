@@ -30,11 +30,9 @@ her state’s professional college counseling association has
 kept her at the forefront of evolving admissions practices
 and trends. 
 
-As a licensed professional counselor and published
-author, Joann has dedicated much of her career to
+As a **licensed professional counselor and published author**, Joann has dedicated much of her career to
 helping students and families successfully navigate the
-college process. She is the author of When to Do What: A Step-by-Step Guide to the College Process and The
-Honeycomb Approach: 6 Factors to Find Your College Fit,
+college process. She is the author of _When to Do What: A Step-by-Step Guide to the College Process and The Honeycomb Approach: 6 Factors to Find Your College Fit_,
 providing families with practical, thoughtful guidance
 throughout the journey. 
 

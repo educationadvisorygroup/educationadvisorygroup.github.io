@@ -16,7 +16,7 @@ international admissions. Her leadership in these positions has shaped strategic
 planning and enhanced understanding of the complex college application process.
 Throughout her career, Jacqueline has counseled students from across the United States and
 globally, having traveled to over 53 countries to inform families about academic opportunities in
-the USA. Her students have achieved admission to prestigious undergraduate and graduate institutions, including mdical schools from around the world. 
+the USA. Her students have achieved admission to prestigious **undergraduate and graduate** institutions, **including mdical schools from around the world.** 
 
 As a sought-after speaker, Jacqueline has delivered numerous presentations and workshops on
 college selection, application strategies, admission processes, and the distinctions between the
