@@ -1,7 +1,7 @@
 ---
 name: Joy
 position: Undergraduate, Graduate counselor
-imageURL: src/img/team/joy.png
+imageURL: src/img/team/joy.jpg
 ---
 Joy has over 17 years of experience as a college counselor, working with students applying to a broad range of institutions, including highly selective universities, top liberal arts colleges, and diverse public and private schools across the country.
  

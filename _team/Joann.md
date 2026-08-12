@@ -1,7 +1,7 @@
 ---
 name: Joann
 position: Undergraduate, Graduate counselor
-imageURL: src/img/team/joann.png
+imageURL: src/img/team/joann.jpg
 ---
 With more than 30 years of experience working with
 teenagers and families, Joann brings a rare combination
