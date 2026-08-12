@@ -14,11 +14,7 @@ Swiss Counselor Group and served as an IB examiner, solidifying her expertise
 in international education.
 With a background in teaching English, GCSE, AP, and IB Literature, Leanda
 possesses a deep understanding of academic preparation and the skills
-necessary for success in higher education. Over the course of her career, she
-has mentored and successfully placed more than a thousand students in top-tier
-institutions, including Brown, Cambridge, Columbia, Cornell, Dartmouth, Duke,
-Imperial College, London School of Economics, MIT, Oxford, Princeton, Stanford,
-UChicago, UC Berkeley, UCLA, Penn, and USC. Her reputation as an expert in
+necessary for success in higher education. Her reputation as an expert in
 European selective colleges has also made her a trusted advisor to fellow EAG
 counselors.
 Originally from Australia, Leanda’s global experience spans six countries,

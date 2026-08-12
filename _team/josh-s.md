@@ -6,9 +6,7 @@ imageURL: src/img/team/joshprofile.png
 
 With two decades of experience in teaching and admissions counseling, Josh has
 established himself as a trusted advisor to students seeking admission to highly selective
-undergraduate and graduate programs. His guidance has helped students secure spots at some of
-the world’s most prestigious institutions, including Caltech, Harvard, Princeton, Stanford, Yale,
-and top campuses within the University of California system, among others.
+undergraduate and graduate programs. His guidance has helped students secure spots at the world's most prestigious instituionts in the US, Canada and the UK. 
 
 A Los Angeles native, Josh holds a Bachelor of Arts in English from Princeton University and a
 Master of Public Policy from Harvard University. His career extends beyond traditional
