@@ -1,11 +1,11 @@
 ---
 name: Laura
-position: Intake Consultation Specialist
+position: Intake Consultant
 imageURL: src/img/team/lauraprofile.jpg
 ---
 
 Since 2021, as a mother of two, Laura has been carving out new opportunities in the education field
-and thoroughly enjoying the journey. As an Intake Consultation Specialist, she not only communicates
+and thoroughly enjoying the journey. As an Intake Consultant, she not only communicates
 the company’s vision clearly to every parent but also focuses on guiding prospective families through
 the initial stages of the consultation process.
 
