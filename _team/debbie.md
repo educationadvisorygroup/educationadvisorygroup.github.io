@@ -1,0 +1,12 @@
+---
+name: Debbie
+position: Undergraduate, Graduate Counselor
+imageURL: src/img/team/debbie.jpg
+---
+With more than 20 years of college counseling experience, Debbie Greenberg brings exceptional expertise, perspective, and personal commitment to her work with students and families. Her background includes serving as a college counselor at one of the nation’s most selective independent schools, where she gained firsthand experience guiding students and families through highly competitive admissions.
+
+Debbie’s expertise has earned national recognition. She was named **Outstanding Counselor of the Year by Colleges That Change Lives**, an internationally recognized consortium of 30 leading liberal arts colleges. She has also created a comprehensive college counseling curriculum and program for a nationally recognized college-access organization.
+For Debbie, however, the college process is about much more than admission to a highly selective university. It is about understanding the student and helping each young person identify colleges where they will be challenged, supported, and genuinely thrive. Debbie takes the time to understand a student’s individual strengths, interests, aspirations, and personality, then uses that insight to develop a thoughtful and highly personalized college strategy.
+Parents value Debbie’s combination of deep admissions expertise and **genuine care**. She brings energy, optimism, and candor to the process while helping students remain confident and grounded. Her goal is not simply to help students build impressive applications, but to help them discover and articulate what makes them distinctive—and to ensure that the college search remains focused on the student’s long-term success and well-being.
+Debbie earned her bachelor’s degree from the University of Illinois and her master’s degree from Washington University in St. Louis.
+Outside of her work with students, Debbie is proud of her two children. Her son is completing his residency at USC in preparation for a career as a thoracic surgeon, and her daughter recently earned her master’s degree in Higher Education from the University of Chicago. When she is not counseling students, Debbie enjoys yoga and staying active.
